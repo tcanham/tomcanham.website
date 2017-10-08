@@ -8,7 +8,7 @@ class About extends Controller{
 	
 	public function index(){
 	
-		$data  =  'About Page';
+		$data  =  ' ';
 		
 		
 	//Load the page header and pass $data as parameter
