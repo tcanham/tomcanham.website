@@ -1,4 +1,56 @@
+/* Global styles */
 *{
     margin: 0;
     padding: 0;
+    font-family: helvetica,arial,sans-serif;
+    color:  #333;
+}
+
+body{
+    background: #fffff0;
+}
+
+.clear{
+    clear:both;
+}
+
+/* Main container styles */
+#landing_container{
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+     background-image: url('../images/office.png');
+    background-size: cover;
+}
+
+#container{
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+}
+
+#main_content{
+    height: 500px;
+}
+
+/* Header styles */
+#nav_holder{
+    width: 50%;
+    height: 50px;
+    padding: 10px;
+    float: right;
+}
+nav {
+    text-align: right;
+}
+nav a{
+    text-decoration: none;
+}
+
+/* Footer styles */
+footer{
+    min-height: 50px;
+    padding: 10px;
+    border-top: 2px solid #333;
+    text-align: center;
 }

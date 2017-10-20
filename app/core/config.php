@@ -6,7 +6,7 @@
 
 //Database constants
 define('HOST','localhost');
-define('DB_NAME','tomcanham.website');
+define('NAME','tcsite');
 define('USER','root');
 define('PASS','');
 

@@ -11,7 +11,7 @@
         <meta charset="UTF-8">
 </head>
 <body>
-    <div id="container" >
+    <div id="landing_container" >
         <div id="nav_holder">
             <nav>
                 <a href="<?=BASE_URL?>">Home</a> &nbsp;|&nbsp;<a href="<?=BASE_URL?>about">About</a> &nbsp;|&nbsp;
@@ -20,4 +20,3 @@
         </div><!-- End of nav_holder -->
         <div class="clear"></div>
          <div id="main_content">
-    

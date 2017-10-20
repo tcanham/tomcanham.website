@@ -6,3 +6,6 @@ Require_once 'core/config.php';
 Require_once 'core/App.php';
 Require_once 'core/Controller.php';
 Require_once 'core/Main_model.php';
+
+// Initialise required other files
+require_once'functions.php';
